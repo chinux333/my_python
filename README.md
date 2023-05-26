@@ -1,4 +1,4 @@
 *************************
-here is Python Hands-on !  lllllllllllll
+here is Python Hands-on !  
 
 *************************
